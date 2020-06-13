@@ -93,7 +93,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <div class="section bg-stone py-3" style="margin-top: 83px">
         <div class="container">
             <div class="d-flex justify-content-center flex-column my-5 position-relative">
-                <h1 class="text-catalina mx-auto text-center">Mima Water Newsletter <!----></h1>
+                <h1 class="text-catalina mx-auto text-center">Ogbagah Newsletter <!----></h1>
             </div>
         </div>
     </div>

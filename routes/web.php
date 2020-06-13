@@ -18,3 +18,7 @@ Auth::routes();
 Route::resource('blogs', 'BlogController');
 Route::get('/blogs/article/{slug}', 'BlogController@read');
 Route::get('/blogs/article/{slug}', 'BlogController@edit');
+Route::resource('dashboard', 'DashboardController');
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
